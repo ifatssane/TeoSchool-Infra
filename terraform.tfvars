@@ -1,6 +1,6 @@
-resource_group_name = "aks_tf_rg"
-location            = "CentralUS"
-cluster_name        = "devops-coach-aks"
+resource_group_name = "jaouad-aks-dockercoins"
+location            = "westeurope"
+cluster_name        = "dockercoins-cluster"
 kubernetes_version  = "1.19.13"
 system_node_count   = 2
 acr_name            = "myacr3210"
